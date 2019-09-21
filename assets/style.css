@@ -24,7 +24,8 @@ body{
 }
 .main-container{
   background-color: #ffffff;
-  margin: 10vh auto;
+  position: relative;
+  margin: 20vh auto;
   overflow: auto;
   border: 1px solid #dddddd;
 }
@@ -45,11 +46,15 @@ body{
   height: 50px;
   position: fixed;
   width: 100vw;
+  bottom: 0px;
 }
-.bg-light{
+.bg-light{ /*header*/
   background-color: #ffffff!important;
   border-bottom: 2px solid #cccccc;
   height: 90px;
+  top: 0px;
+  width: 100%;
+  position: fixed;
 }
 h1,
 h2,
@@ -64,4 +69,5 @@ h1 {
   font-size: 30px;
   line-height: 49px;
   border-bottom: 3px solid #dddddd;
+  padding-top: 25px;
 }
