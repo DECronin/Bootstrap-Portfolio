@@ -11,3 +11,15 @@
   text-decoration: none;
   background: #4aaaa5;
 }
+#bio-image{
+    width: 200px;
+    float: left;
+    margin: 20px;
+}
+.footer{
+  background-color:#4aaaa5;
+  color: #ffffff;
+  position: fixed;
+  width: 100vw;
+  text-align: center;
+}
