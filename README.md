@@ -14,9 +14,9 @@
 * CSS Folder
 * Images Folder
 * Images Being Used in Images Folder
-  * Viewport Responsive Images
+  * View-Port Responsive Images
 * Navigation Bar
-* Viewport/Device Responsive Layout with Grid System
+* View-Port/Device Responsive Layout with Grid System
   * Rows
   * Columns
   * xs, sm, md, lg (ect)
