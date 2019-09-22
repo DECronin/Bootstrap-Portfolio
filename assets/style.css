@@ -55,6 +55,7 @@ body{
   top: 0px;
   width: 100%;
   position: fixed;
+  z-index: 555;
 }
 h1,
 h2,
@@ -75,4 +76,12 @@ h1 {
   background-color: #4aaaa5 !important;
   border: none;
   margin: 0 0 10px 0;
+}
+.img-thumbnail{
+  width: 274px;
+  margin: 25px;
+  float: left;
+}
+.img-thumbnail:nth-child(even) {
+  margin-right: 40px;
 }
