@@ -81,6 +81,7 @@ h1 {
   width: 274px;
   margin: 25px;
   float: left;
+  opacity: 0.8;
 }
 .img-thumbnail:nth-child(even) {
   margin-right: 40px;
