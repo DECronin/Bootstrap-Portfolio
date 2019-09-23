@@ -44,10 +44,10 @@ body{
   background: #666666;
   border-top: 8px solid #4aaaa5;
   height: 50px;
-  position: fixed;
   width: 100vw;
-  bottom: 0px;
   z-index: 55;
+  position: fixed;
+  bottom: 0px;
 }
 .bg-light{ /*header*/
   background-color: #ffffff!important;
